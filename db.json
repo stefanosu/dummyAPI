@@ -1,4 +1,5 @@
-[ 
+"users": [ 
+  
   {
   "id": 1,
   "name": "steve",
@@ -19,5 +20,4 @@
  "email": "musie@example.com",
  "password": "abc123"
 } 
-
 ]
