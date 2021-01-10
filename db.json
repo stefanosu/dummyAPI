@@ -1,12 +1,23 @@
 
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "steve", 
+      "email": "steve@example.com",
+      "password": "abc123"
+    },
+     {
+      "id": 2,
+      "name": "yone", 
+      "email": "yone@example.com",
+      "password": "abc123"
+    },
+     {
+      "id": 3,
+      "name": "musie", 
+      "email": "musie@example.com",
+      "password": "abc123"
+    },
+  ]
 }
